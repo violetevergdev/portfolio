@@ -40,7 +40,7 @@ export const projects: IProject[] = [
     title: "Post App",
     skills: "React, Redux, Redux Toolkit",
     img: "src/img/projects/05.jpg",
-    bigImg: "src/img/projects/05-big.jpg",
+    bigImg: "./src/img/projects/05-big.jpg",
     gitHubLink: "https://github.com/violetevergdev/redux-toolkit-test",
   },
 ];

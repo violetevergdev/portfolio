@@ -6,7 +6,7 @@ const Footer = () => {
           <ul className="social">
             <li className="social__item">
               <a href="https://github.com/violetevergdev" target="_blank">
-                <img src="/src/img/icons/gitHub.svg" alt="Link" />
+                <img src="src/img/icons/gitHub.svg" alt="Link" />
               </a>
             </li>
           </ul>
