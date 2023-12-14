@@ -6,10 +6,10 @@ import Navbar from "./components/Navbar.tsx";
 import Footer from "./components/Footer.tsx";
 import { ScrollToTop } from "./utils/scrollToTop.ts";
 ReactDOM.createRoot(document.getElementById("root")!).render(
-  <BrowserRouter>
-    <ScrollToTop />
+  <BrowserRouter basename="/portfolio/">
     <Navbar />
     <App />
     <Footer />
+    <ScrollToTop />
   </BrowserRouter>,
 );

@@ -37,12 +37,12 @@ const DarkModeBtn = () => {
       onClick={toggleDarkMode}
     >
       <img
-        src="/src/img/icons/sun.svg"
+        src="src/img/icons/sun.svg"
         alt="Light mode"
         className="dark-mode-btn__icon"
       />
       <img
-        src="/src/img/icons/moon.svg"
+        src="src/img/icons/moon.svg"
         alt="Dark mode"
         className="dark-mode-btn__icon"
       />
