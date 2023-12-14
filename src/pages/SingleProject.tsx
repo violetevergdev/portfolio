@@ -14,7 +14,7 @@ const SingleProject = () => {
           <h1 className="title-1">{project.title}</h1>
 
           <img
-            src={project.bigImg}
+            src={`..${project.bigImg}`}
             alt="Project img"
             className="project-details__cover"
           />
