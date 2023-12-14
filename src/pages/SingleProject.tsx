@@ -37,7 +37,7 @@ const SingleProject = () => {
               className="btn-outline"
               target="_blank"
             >
-              <img src="src/img/icons/gitHub-black.svg" alt="Github icon" />
+              <img src="../src/img/icons/gitHub-black.svg" alt="Github icon" />
               GitHub repo
             </a>
           )}
