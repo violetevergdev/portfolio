@@ -43,4 +43,12 @@ export const projects: IProject[] = [
     bigImg: "/src/img/projects/05-big.jpg",
     gitHubLink: "https://github.com/violetevergdev/redux-toolkit-test",
   },
+  {
+    id: 6,
+    title: "LofHouse",
+    skills: "React, TypeScript, SCSS",
+    img: "src/img/projects/06.jpg",
+    bigImg: "/src/img/projects/06-big.jpg",
+    gitHubLink: "https://github.com/violetevergdev/loft-house-proj",
+  },
 ];
