@@ -1,3 +1,5 @@
+/** @format */
+
 const Header = () => {
   return (
     <header className="header">
@@ -6,7 +8,7 @@ const Header = () => {
           <strong>
             Hi, my name is <em>Violett</em>
           </strong>
-          <br />a frontend developer
+          <br />a multidisciplinary developer
         </h1>
 
         <div className="header__text">

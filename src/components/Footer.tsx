@@ -1,3 +1,5 @@
+/** @format */
+
 const Footer = () => {
   return (
     <footer className="footer">
@@ -12,7 +14,7 @@ const Footer = () => {
           </ul>
 
           <div className="copyright">
-            <p>© 2024 Violett</p>
+            <p>© 2024 Violet</p>
           </div>
         </div>
       </div>
